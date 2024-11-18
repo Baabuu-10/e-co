@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Baabuu-10/e-co.git/static/css/main.db1d6f92.css",
+    "main.js": "/Baabuu-10/e-co.git/static/js/main.dbc01430.js",
+    "static/media/homeImage.png": "/Baabuu-10/e-co.git/static/media/homeImage.171cb1c2e9356637def4.png",
+    "static/media/about.jpeg": "/Baabuu-10/e-co.git/static/media/about.43e88171b5029e48d300.jpeg",
+    "index.html": "/Baabuu-10/e-co.git/index.html",
+    "main.db1d6f92.css.map": "/Baabuu-10/e-co.git/static/css/main.db1d6f92.css.map",
+    "main.dbc01430.js.map": "/Baabuu-10/e-co.git/static/js/main.dbc01430.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db1d6f92.css",
+    "static/js/main.dbc01430.js"
+  ]
+}
